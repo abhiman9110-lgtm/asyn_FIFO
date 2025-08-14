@@ -1,0 +1,1 @@
+Designed an Asynchronous FIFO in Verilog HDL for CDC between 40 MHz and 10 MHz, supporting burst size of 100 and depth of 75 entries. Implemented Gray-code based FIFO pointers and integrated a 2-flip-flop synchronizer to improve metastability resolution.
